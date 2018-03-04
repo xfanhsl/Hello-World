@@ -1,6 +1,10 @@
 # Hello-World
 learn github
 https://guides.github.com/activities/hello-world/
+https://services.github.com/on-demand/intro-to-github/
+https://services.github.com/on-demand/github-cli/
+https://services.github.com/on-demand/github-desktop/
+https://guides.github.com/features/mastering-markdown/
 
 Step 1. Create a Repository
 In the upper right corner, next to your avatar or identicon, click  and then select New repository.
